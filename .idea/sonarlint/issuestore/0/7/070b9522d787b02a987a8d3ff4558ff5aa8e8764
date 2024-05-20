@@ -1,0 +1,14 @@
+
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(½¬á¢
+}
+java:S1488Ï"aImmediately return this expression instead of assigning it to the temporary variable "responses".(¯ÿ¶”ûÿÿÿÿ
+R	java:S125Ü"<This block of commented-out lines of code should be removed.(Ìü®ê
+T	java:S106¾"9Replace this use of System.out or System.err by a logger.(¯ú¸Şÿÿÿÿÿ
+T	java:S106Ë"9Replace this use of System.out or System.err by a logger.(°Ú€£şÿÿÿÿ
+O	java:S106ç"9Replace this use of System.out or System.err by a logger.(è­±¾
+O	java:S106ã"9Replace this use of System.out or System.err by a logger.(º‰³Ğ
+T	java:S106ì"9Replace this use of System.out or System.err by a logger.(¯ú¸Şÿÿÿÿÿ
+W	java:S125¡"<This block of commented-out lines of code should be removed.(©åÏ§şÿÿÿÿ
+y
+java:S1128"dRemove this unused import 'lk.quantacom.smarterpbackend.dto.response.GetAllItemCodesByDescResponse'.(¼¹Î@

@@ -1,0 +1,27 @@
+
+v
+java:S1104"[Make CUSTOMER_IMAGES a static final constant or non-public and provide accessors if needed.(ùúÿÿÿÿ
+v
+java:S1104"[Make SUPPLIER_IMAGES a static final constant or non-public and provide accessors if needed.(™È‰ûÿÿÿÿÿ
+m
+java:S1104"WMake ITEM_IMAGES a static final constant or non-public and provide accessors if needed.(È¼É­
+P
+java:S1444"5Make this "public static CUSTOMER_IMAGES" field final(ùúÿÿÿÿ
+P
+java:S1444"5Make this "public static SUPPLIER_IMAGES" field final(™È‰ûÿÿÿÿÿ
+G
+java:S1444"1Make this "public static ITEM_IMAGES" field final(È¼É­
+k
+java:S3008
+"URename this field "IMAGE_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò û 
+u
+java:S3008"ZRename this field "CUSTOMER_IMAGES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùúÿÿÿÿ
+u
+java:S3008"ZRename this field "SUPPLIER_IMAGES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™È‰ûÿÿÿÿÿ
+l
+java:S3008"VRename this field "ITEM_IMAGES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¼É­
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ì½ğÿÿÿÿÿ
+O
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(¬óå
+V	java:S1252"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ

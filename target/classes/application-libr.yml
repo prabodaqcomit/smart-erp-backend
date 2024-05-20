@@ -1,0 +1,30 @@
+# This is a sample command please replace with correct command
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3309/smart_erp_cloud
+    username: root
+    password: QcomAdminAuthentication#123
+
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+eurek:
+  client:
+    enabled: false
+
+jwt:
+  token:
+    validity: 36000000
+    prefix: Bearer
+  signing:
+    key: signingkey
+  authorities:
+    key: roles
+  header:
+    string: Authorization
+
+server:
+  port: 8003
+  error:
+    include-message: always

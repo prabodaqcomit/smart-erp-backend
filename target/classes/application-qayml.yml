@@ -1,0 +1,34 @@
+# This is a sample command please replace with correct command
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/libera_fix_3                 #qcomit_cloud_db  #mway_db
+    username: root
+    password: Ja*v@E%OPs
+
+#    qcomit_cloud_db
+  #  password: Ja*v@E%OPs
+  #    hikari:
+  #      schema: systempg
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+eurek:
+  client:
+    enabled: false
+
+jwt:
+  token:
+    validity: 36000000
+    prefix: Bearer
+  signing:
+    key: signingkey
+  authorities:
+    key: roles
+  header:
+    string: Authorization
+
+server:
+  port: 8003
+  error:
+    include-message: always

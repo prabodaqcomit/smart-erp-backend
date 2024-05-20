@@ -1,0 +1,32 @@
+
+g
+java:S1192—"IDefine a constant instead of duplicating this literal "HH:mm:ss" 3 times.(ßÍ˜8 ¾—à½1
+e
+java:S1192X"HDefine a constant instead of duplicating this literal "' and '" 3 times.(‡×ö»8 ¾—à½1
+X
+java:S1141¢"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8 ¾—à½1
+j
+java:S2095ß"GUse try-with-resources or close this "Statement" in a "finally" clause.(Ü·÷Ôüÿÿÿÿ8à×—à½1
+i
+java:S2095]"GUse try-with-resources or close this "Statement" in a "finally" clause.(Ü·÷Ôüÿÿÿÿ8ˆ¬—à½1
+j
+java:S2095¤"GUse try-with-resources or close this "Statement" in a "finally" clause.(Ü·÷Ôüÿÿÿÿ8ˆ¬—à½1
+X	java:S125="<This block of commented-out lines of code should be removed.(‘ŸĞ³8˜¬—à½1
+J	java:S108t")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ8˜¬—à½1
+i
+java:S1858"K"fromDate" is already a string, there's no need to call "toString()" on it.(©’·Ò8˜¬—à½1
+g
+java:S1858"I"toDate" is already a string, there's no need to call "toString()" on it.(–ÇŠ¾8§¬—à½1
+F	java:S108¶")Either remove or fill this block of code.(”ı¾8§¬—à½1
+K	java:S108÷")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ8·¬—à½1
+H
+java:S1481ˆ"*Remove this unused "telNo" local variable.(ˆŞ¹…8€Ø—à½1
+V	java:S106¡"9Replace this use of System.out or System.err by a logger.(Â–‘ö8€Ø—à½1
+Y	java:S125Ÿ"<This block of commented-out lines of code should be removed.(ÿ‚ƒÍ8€Ø—à½1
+F	java:S108Ë")Either remove or fill this block of code.(”ı¾8Ø—à½1
+R
+java:S1128	"5Remove this unused import 'java.time.OffsetDateTime'.(ûùˆı8·¬—à½1
+h
+java:S1128"KRemove this unused import 'lk.quantacom.smarterpbackend.entity.ItemMaster'.(©ÌÙÿ8·¬—à½1
+c
+java:S1128"FRemove this unused import 'lk.quantacom.smarterpbackend.entity.Stock'.(Ù¢¸8·¬—à½1
